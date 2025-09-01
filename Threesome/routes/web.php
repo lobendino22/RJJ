@@ -12,3 +12,6 @@ Route::get('/rodel', function () {
 Route::get('/home', function () {
     return view('home'); 
 });
+Route::get('/jaby', function () {
+    return view('jaby'); 
+});
