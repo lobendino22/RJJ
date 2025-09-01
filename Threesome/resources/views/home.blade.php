@@ -1,5 +1,4 @@
-
-<x-layout>
+<x-layout title="home page">
   <!-- Hero Section -->
   <div class="hero">
     <h1>Welcome to our Website</h1>
@@ -7,5 +6,3 @@
     
   </div>
   </x-layout>
-
- 
