@@ -15,3 +15,6 @@ Route::get('/home', function () {
 Route::get('/jaby', function () {
     return view('jaby'); 
 });
+Route::get('/john', function () {
+    return view('john'); 
+});
